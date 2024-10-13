@@ -55,7 +55,10 @@ a {
     opacity: 0.7;
 
 }
-
+.nav-option a:hover {
+    color: #1DB954; 
+    transition: 0.3s;
+}
 .nav-option:hover {
     opacity: 1;
 
